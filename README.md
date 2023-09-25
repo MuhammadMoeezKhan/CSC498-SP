@@ -5,7 +5,7 @@ The Enhanced TypeScript-Powered Moodle project was undertaken to transform the t
 
 **Project Details:**
 
-**Modernization: **This project focused on modernizing the Moodle platform, making it more responsive, efficient, and user-friendly.
+**Modernization:** This project focused on modernizing the Moodle platform, making it more responsive, efficient, and user-friendly.
 
 **TypeScript Development:** TypeScript, a statically typed language, was used for development, ensuring code quality and maintainability.
 
